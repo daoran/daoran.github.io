@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://daoran.github.io/</loc>
+    <loc>http://replace-this-with-your-hugo-site.com/</loc>
     <lastmod>2016-04-23T21:50:07+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://daoran.github.io/post/hello-world/</loc>
+    <loc>http://replace-this-with-your-hugo-site.com/post/hello-world/</loc>
     <lastmod>2016-04-23T21:50:07+08:00</lastmod>
   </url>
   
