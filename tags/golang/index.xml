@@ -11,17 +11,17 @@
     
     <item>
       <title>Hello World</title>
-      <link>http://daoran.github.io/post/hello-world/</link>
+      <link>http://daoran.github.io/2016/04/hello-world/</link>
       <pubDate>Mon, 25 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://daoran.github.io/post/hello-world/</guid>
+      <guid>http://daoran.github.io/2016/04/hello-world/</guid>
       <description>
 
 &lt;h2 id=&#34;step-1-test-syntax-highlighting:aa77bbfd89a7b0ff10def205b9c08d51&#34;&gt;Step 1. Test Syntax Highlighting&lt;/h2&gt;
 
 &lt;p&gt;Here&amp;rsquo;s an example:&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;package main
+&lt;pre&gt;&lt;code class=&#34;language-prettyprint&#34;&gt;package main
 
 import &amp;quot;fmt&amp;quot;
 
@@ -30,7 +30,7 @@ func main() {
 }
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;pre&gt;&lt;code&gt;$ mkdir handler-example
+&lt;pre&gt;&lt;code class=&#34;language-prettyprint&#34;&gt;$ mkdir handler-example
 $ cd handler-example
 $ touch main.go
 &lt;/code&gt;&lt;/pre&gt;
